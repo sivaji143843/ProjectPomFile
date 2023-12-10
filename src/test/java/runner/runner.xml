@@ -1,0 +1,9 @@
+<suite name="testsuite" verbose="1" parallel="tests">
+
+<test name="NEEArrival">
+<classes>
+<class name="steps.SharedStep"></class>
+<class name="steps.NewArrivals"></class>
+</classes>
+</test>
+</suite>
